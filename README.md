@@ -65,8 +65,8 @@ X:.
 ### 🔹 Setup Instructions
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/vechaon-parlo-management.git
-   cd vechaon-parlo-management
+   git clone https://github.com/clarenceparmar/vpms.git
+   cd vpms
    ```
 2. **Import Database**
    - Open **phpMyAdmin**
